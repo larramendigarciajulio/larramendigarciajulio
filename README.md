@@ -1,27 +1,49 @@
-Hola, soy Julio Larramendi García 👋
-Futuro técnico en Administración de Sistemas Informáticos en Red (ASIR) con enfoque en ciberseguridad y un poco de inteligencia artificial. Apasionado por el aprendizaje continuo y la práctica en entornos reales.
+# ¡Hola! Soy Julio Larramendi García 👋
 
-🎓 Certificaciones
-Linux Unhatched de Cisco NetAcad✅
-Introduction to Cybersecurity de Cisco NetAcad✅ 
-Networking Basics de Cisco NetAcad✅
-NSE 1 Network Security Associate de Fortinet✅ 
-NSE 2 Network Security AssociateFortinet🔄 En progreso
+<p align="center">
+  <strong>Futuro Técnico en Administración de Sistemas Informáticos en Red (ASIR)</strong><br>
+  🎯 Enfocado en Ciberseguridad | 🤖 Explorando la Inteligencia Artificial | 🚀 Apasionado por el aprendizaje continuo y laboratorios reales
+</p>
 
-🔧 Actualmente aprendiendo
+---
 
-🐧 Linux en terminal — OverTheWire: Bandit
-🔐 Hacking ético — VulnHub / Hack The Box Starting Point
-🐍 Python desde cero — CS50P Harvard
-🤖 IA aplicada a ciberseguridad
-🌐 Redes y protocolos — TCP/IP, DNS, DHCP
+## 🎓 Certificaciones / Certifications
+
+Aquí puedes ver mis certificaciones oficiales y el estado en el que se encuentran:
 
 
-🛠️ Proyectos de laboratorio
-#1Configuración de entorno de virtualización✅ 
-#2Redes y conectividad entre máquinas virtuales✅
-#3Servicios y administración básica de sistemas✅ Completado
+| Institución / Certificación | Estado |
+| :--- | :---: |
+| **Cisco NetAcad** — Linux Unhatched | 🟢 Completado |
+| **Cisco NetAcad** — Introduction to Cybersecurity | 🟢 Completado |
+| **Cisco NetAcad** — Networking Basics | 🟢 Completado |
+| **Fortinet** — NSE 1 Network Security Associate | 🟢 Completado |
+| **Fortinet** — NSE 2 Network Security Associate | 🟡 En progreso |
 
-Los proyectos se irán documentando en detalle en los repositorios correspondientes.
+---
 
-www.linkedin.com/in/julio-larramendi-garcía-92a532250
+## 🔧 En Qué Estoy Trabajando / Currently Learning
+
+Mi ruta de aprendizaje actual está enfocada en asentar bases sólidas y resolver retos prácticos:
+
+* **🐧 Linux en Terminal:** Explotando niveles y comandos en **OverTheWire: Bandit**.
+* **🔐 Hacking Ético:** Resolviendo laboratorios en **VulnHub** y laboratorios iniciales en **Hack The Box (Starting Point)**.
+* **🐍 Programación con Python:** Cursando el prestigioso **CS50P de la Universidad de Harvard** para automatizar tareas y scripts.
+* **🤖 IA Aplicada:** Estudiando la integración de Modelos de Lenguaje e Inteligencia Artificial orientados a la defensa y auditoría de ciberseguridad.
+* **🌐 Redes y Protocolos:** Profundizando en la arquitectura interna de protocolos críticos (**TCP/IP, DNS, DHCP**).
+
+---
+
+## 📊 Estadísticas de GitHub / GitHub Stats
+
+<!--- Nota: Reemplaza "TU_USUARIO_DE_GITHUB" por tu nombre de usuario real en las siguientes 2 líneas para que funcionen --->
+![Estadísticas de GitHub de Julio](https://vercel.app)
+![Lenguajes más usados](https://vercel.app)
+
+---
+
+## 🤝 Conecta Conmigo / Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+</p>
